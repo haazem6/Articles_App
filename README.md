@@ -80,7 +80,7 @@ Le backend est construit avec [Node.js](https://nodejs.org/) et [Express](https:
 
 ## Configuration et Installation
 
-1. **Clonez le dépôt :** `git clone https://github.com/haazem6/Crud_Article_App.git`
+1. **Clonez le dépôt :** `git clone https://github.com/haazem6/Article_App.git`
 2. **Accédez au répertoire du projet :** `cd tawaFront`
 3. **Installez les dépendances :** `npm install`
 
