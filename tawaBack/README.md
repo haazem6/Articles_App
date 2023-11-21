@@ -22,7 +22,7 @@ Le backend est construit avec [Node.js](https://nodejs.org/) et [Express](https:
 - MongoDB installé 
 
 ### Installation
-1. Clônez le dépôt : `git clone https://github.com/haazem6/Crud_Article_App.git`
+1. Clônez le dépôt : `git clone https://github.com/haazem6/Article_App.git`
 2. Naviguez dans le répertoire du projet : `cd tawaBack`
 3. Installez les dépendances : `npm install`
 
