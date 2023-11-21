@@ -36,8 +36,6 @@ Le backend est construit avec [Node.js](https://nodejs.org/) et [Express](https:
 2. Accédez à l'application dans votre navigateur à l'adresse `http://localhost:5000` .
 
 ## API Endpoints
-
-- Documentez ici les endpoints de votre API et comment les utiliser.
 - Exemple :
   - `POST /api/user/signup`: Inscription d'un nouvel utilisateur.
   - `POST /api/user/signin`: Connexion d'un utilisateur existant.
